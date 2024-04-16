@@ -1,8 +1,11 @@
 ![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/3d4de467-039c-4dd0-ae4f-24f000524728)# HyperCasualSimpleGame
 
-![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/28db9291-689d-4bdd-9e22-30ba0cdd6e6f)
+image-1
+![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/b6a7e882-e429-411a-9c37-b3fc4e716cb4)
+image-2
+![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/37fa9ce7-c9c7-4e92-bd0b-010d563bedcc)
 
-![Uploading image.png…]()
+
 
 
 
