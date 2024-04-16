@@ -1,4 +1,4 @@
-![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/3d4de467-039c-4dd0-ae4f-24f000524728)# HyperCasualSimpleGame
+HyperCasualSimpleGame
 
 image-1
 ![image](https://github.com/osmanAskin/HyperCasualSimpleGame/assets/115871580/b6a7e882-e429-411a-9c37-b3fc4e716cb4)
